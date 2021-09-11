@@ -7,5 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+git: https://github.com/dh0725/ECSprime
+description: ECSprime(주)의 소개 및 설명 그리고 정보를 볼 수 있는 웹 사이트 ECSprime입니다. 제가 맡았던 역할은 전반적으로 정적인 웹으로 구현했고 CSS의 Flexbox를 사용해서 웹 디자인 및 반응형 웹 디자인을 구현했습니다. 웹 사이트 내에 회사의 뉴스 및 이벤트를 기록하고 정보 공유를 할 수 있는 파일 업로드도 가능한 NEWS 게시판 CRUD를 구현헀습니다. Spring Boot의 Gradle 빌드를 사용하였고 MySQL로 DB를 구현해서 MyBatis와 연결했습니다.
 ---

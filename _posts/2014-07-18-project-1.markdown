@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2021-03-19
 img: ballon.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: March 2021
+client: Team Project
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+git: https://github.com/hcjo1223/today_trip
+description: 여행 일정 및 계획을 공유하는 커뮤니티 today_trip입니다. 장소에 대한 한국관광공사의 API를 받아와서 장소 DB 세팅했고 제가 맡았던 역할은 여행 계획을 세우는 게시판의 CRUD를 구현했습니다. Spring Framework의 Maven을 사용해서 동적인 웹을 구현했고 DB는 Oracle DB를 사용했으며 MyBatis를 이용해 관계형 DB에 연결했습니다. HTML, CSS를 사용해서 웹 디자인을 했고 편의성을 위해 Bootstrap을 사용했습니다.
 ---
